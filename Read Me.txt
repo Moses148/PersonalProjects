@@ -1,7 +1,0 @@
-The given project file was created in Intellij IDEA and will need to be opened in it to be used. 
-The Java SDK used was 1.8.0_251.
-All nessesary mavan JUnit unit test files and classes are inside the project.
-Included are three text files that were tested. If you wish to add any extra, place them in the highest folder in the project, alongside the other .txt files.
-A java class called Manual_Test is included if you wish to manually run the program instead of running the tests, it allows a user input for a file name (without the file extension i.e. "welcome" for Welcome.txt)
-
-Using the example given as a template, I've assumed a word is any letter (such as a single a) or punctuation (such as &) as well as including punctuation into word length (such as 18/05/2016 being 10 letters long) and that some punctuation are excluded if they arnt part of the work (such as a full stop at the end of the word "morning.")
